@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello 👋 I'm K1lluaz99!
+##### Game Developer
+##### [guns.lol/k1lluaz99](https://guns.lol/k1lluaz99)
 
-<!--
-**k1lluaz99/k1lluaz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game developer with a passion for programming. Here are a few things about me:
 
-Here are some ideas to get you started:
+- 💻 My IDE preference is Visual Studio Code.
+- 🌐 Browser of choice: Floorp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+I have several years of experience in these programming languages ​​and game engines:
+
+- 💻 Roblox Studio
+- 💻 Luau
+
+## Contact
+
+📧 You can reach me via [email](mailto:contact.k1lluaz99@gmail.com).
+
+### See you 👋
