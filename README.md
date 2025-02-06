@@ -12,7 +12,9 @@ I'm a game developer with a passion for programming. Here are a few things about
 I have several years of experience in these programming languages ​​and game engines:
 
 - 💻 Roblox Studio
+- 💻 Visual Studio 2022
 - 💻 Luau
+- 💻 C#
 
 ## Contact
 
